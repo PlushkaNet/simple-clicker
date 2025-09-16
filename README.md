@@ -3,10 +3,10 @@
 It's a simple clicker-like game written using flutter to get more experience with framework
 This is old project, im probably won't continiue it
 
-## Features
+# Features
 
-# Saving gameplay
+## Saving gameplay
 All your clicks are saving in the memory using shared preferences.
 
-# Upgrade
+## Upgrade
 It have an upgrade click-strength functional, so, you can easier click big values
