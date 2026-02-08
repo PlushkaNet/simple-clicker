@@ -1,5 +1,5 @@
 name: simple_clicker
-description: "A new Flutter project."
+description: "Simple clicker"
 publish_to: 'none'
 version: 0.1.0
 
@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_launcher_icons: ^0.14.4
   provider: ^6.1.5+1
   shared_preferences: ^2.5.3
 
